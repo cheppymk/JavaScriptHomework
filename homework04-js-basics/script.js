@@ -8,7 +8,8 @@ function numberCount(number, array) {
       }
   }
   return occurences;
-} debugger;
+} 
+debugger; 
 let input = parseInt(prompt("Enter a number:"));
 let testArray = [2, 5, 6, 3, 5, 5, 2, 5, 7, 8, 2];
 console.log(`There are ${numberCount(input, testArray)} occurences of ${input} in the array!`);
