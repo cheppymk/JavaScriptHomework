@@ -1,3 +1,4 @@
+//domashna 3
 const recipeName = prompt('Enter the name of the recipe:');
 const numIngredients = prompt('Enter the number of ingredients:');
 

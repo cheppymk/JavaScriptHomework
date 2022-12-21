@@ -1,3 +1,4 @@
+//domashna 2
 const numbers = [2, 4, 5];
 
 let sum = 0;
